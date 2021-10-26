@@ -4,7 +4,7 @@ import "bufio"
 import "fmt"
 import "os"
 
-import "example.com/stack"
+import "github.com/sebastianbarry/program2go/stack"
 
 // Global operator and operand stacks
 var operandStack stack.Stack
